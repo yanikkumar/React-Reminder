@@ -18,3 +18,6 @@ After cloning the app make sure to run the command `npm install` or `npm i` to i
 
 Below shown some of the Screenshots of the app in action:
 
+![ScreenShot1](screenshots/screen1.png)
+
+![ScreenShot2](screenshots/screen2.png)
